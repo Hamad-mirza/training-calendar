@@ -40,7 +40,7 @@ Each session can be linked to a WooCommerce product in the admin. Whether clicki
 
 1. Copy this plugin into `wp-content/plugins/training-calendar`.
 2. In **Plugins**, activate **Training Calendar for WooCommerce**.
-3. Make sure **WooCommerce**  & **WooCommerce Subscription** plugins are installed and active.
+3. Make sure **WooCommerce** plugin is installed and active.
 4. Open **Training Sessions → Add Post** to create your first session.
 
 ## Usage
